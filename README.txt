@@ -1,4 +1,1 @@
-Heyy!..
-Hola mundo!
-Esta es una segunda linea
-Tercera linea
+Este es otro txt
